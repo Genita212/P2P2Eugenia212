@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Estados">
+        <item>Aguas Calientes</item>
+        <item>Durango</item>
+        <item>Nuevo Leon</item>
+        <item>Tampico</item>
+        <item>Hidalgo</item>
+    </string-array>
+</resources>
